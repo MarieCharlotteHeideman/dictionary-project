@@ -1,7 +1,7 @@
 .App .container {
   background-color: #f0eedf;
   padding: 40px;
-  margin: 20px 80px;
+  margin: 20px auto;
   border-radius: 5px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
