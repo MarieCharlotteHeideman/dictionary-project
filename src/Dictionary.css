@@ -1,0 +1,22 @@
+.Dictionary input {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 30px;
+}
+
+.Dictionary .searchForm {
+  width: 80%;
+}
+
+.Dictionary .submitButton {
+  background-color: #5f7055;
+  color: white;
+  border: #5f7055;
+  transition: all 150ms ease-in-out;
+}
+
+.Dictionary .submitButton:hover {
+  background-color: #7e8a77;
+  color: white;
+}

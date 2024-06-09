@@ -1,4 +1,5 @@
 import React from "react";
+import "./Results.css";
 import Meaning from "./Meaning";
 
 export default function Results(props) {
