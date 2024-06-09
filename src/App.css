@@ -1,4 +1,4 @@
-.App {
+.App .container {
   background-color: #f0eedf;
   padding: 40px;
   margin: 20px 80px;
@@ -15,4 +15,8 @@
 .App footer {
   text-align: center;
   margin: 30px auto;
+}
+
+.App a {
+  color: #5f7055;
 }

@@ -45,7 +45,7 @@ export default function Dictionary() {
           placeholder="What word do you want to look up?"
           onChange={handleKeywordChange}
         />
-        <input className="submitButton" type="submit" />
+        <input className="submitButton" type="submit" value="Search" />
       </form>
       <Results results={results} />
       <Photos photos={photos} />

@@ -14,6 +14,7 @@
   color: white;
   border: #5f7055;
   transition: all 150ms ease-in-out;
+  padding: 10px 20px;
 }
 
 .Dictionary .submitButton:hover {

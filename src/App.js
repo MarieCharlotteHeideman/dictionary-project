@@ -11,7 +11,24 @@ function App() {
         </main>
       </div>
       <footer>
-        <small>Coded by Charlotte Heideman and open-sourced on GitHub.</small>
+        <small>
+          Coded by{" "}
+          <a
+            href="https://charlotte-heideman-portfolio.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Charlotte Heideman
+          </a>{" "}
+          and open-sourced on{" "}
+          <a
+            href="https://github.com/MarieCharlotteHeideman/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>{" "}
+        </small>
       </footer>
     </div>
   );
